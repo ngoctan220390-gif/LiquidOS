@@ -7,20 +7,12 @@ Architectures: iphoneos-arm64
 Components: main
 Description: LiquidOS Repository
 
-Date: Sun, 28 Jun 2026 12:52:04 +0000
+Date: Sun, 28 Jun 2026 13:36:25 +0000
 MD5Sum:
- 00b96cbb524ded524cba696851d1f2dc             2365 Packages
- 1bfd77718c43ebbc5118a44ad212f0e5              812 Packages.gz
- 5fc93e0d114bd3ee76898431fb3ad58c              196 Release
+ 491d51e12f122cc4c804cf535060cbbe              196 Release
 SHA1:
- 5ce7fbd18fe9d6c00ec8cbf970ab12903bbd62a7             2365 Packages
- 2ca1802ad22af128622a069a022a3b4931cdccf0              812 Packages.gz
- b3b7bef868f469a7488ca4e7da30a24eefeab626              196 Release
+ 5a97144033804302ebeab48e82dd3c3f46ce1453              196 Release
 SHA256:
- 8720275c369f85644f22ea3f96a5c9897ac932dbff6fcf8f168b95445ee525a5             2365 Packages
- 3a856ed7653cfd3e5a6b3958c3789e433f34020d3dae2477a9993686c2e1ab52              812 Packages.gz
- c7601ab7e558ee232b37d77ff25006c2f63f96b394419e524d071b1669b91b64              196 Release
+ 0db92a1f65516ac26a13e23f29779723031a9633f965d13d4ac0ace2fa26ca58              196 Release
 SHA512:
- f7dc5256ff8d5d7d738c683ede80221124eb0f3617667d6e0f906306c5bbf4ec16a3c348f563fe68f72748117f9afd80cfe6adee3e856a4b41b8ac455c2a8f2f             2365 Packages
- 9de99f0cd7119b03e0f2ff7bad7314d608b83d9f1bdfa07d914b8ee1329ea64656e060689ef0d6500e65b1fb204d9927929e2cbe3f2d213cf19e21c46ca1b191              812 Packages.gz
- 733c39dc0126e87565beeb8598a856f985357de3fddeba6aa7ae6d685c0f15f349c0f1d114755142d06f0b4b4a47d20734125355826f4e9e0095b19e65f4d434              196 Release
+ ff4003cd45cd1f2e174617ac9dd6af2af972881139e4d884015378121a938a2efbf4b45e2f3d12591ecef06889bc15d04f4ef16f645a50c68087e73963c47e22              196 Release
